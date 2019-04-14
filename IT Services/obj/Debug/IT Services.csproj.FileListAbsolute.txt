@@ -1,0 +1,13 @@
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT Services.csprojAssemblyReference.cache
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT_Services.Properties.Resources.resources
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT Services.csproj.GenerateResource.cache
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT Services.csproj.CoreCompileInputs.cache
+C:\Users\elnures\source\repos\IT Services\IT Services\bin\Debug\IT Services.exe.config
+C:\Users\elnures\source\repos\IT Services\IT Services\bin\Debug\IT Services.exe
+C:\Users\elnures\source\repos\IT Services\IT Services\bin\Debug\IT Services.pdb
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT Services.exe
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT Services.pdb
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT_Services.AdminPanel.resources
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT_Services.RegisterLogin.resources
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT_Services.GenerateCarts.resources
+C:\Users\elnures\source\repos\IT Services\IT Services\obj\Debug\IT_Services.UserPanel.resources
